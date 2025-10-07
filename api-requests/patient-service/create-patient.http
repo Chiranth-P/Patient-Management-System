@@ -4,7 +4,7 @@ Content-Type: application/json
 Authorization: Bearer {{token}}
 
 {
-  "name": "John Doe Kafka Test",
+  "name": "John Doe Kafka Test23",
   "email": "kafka_test11@example.com",
   "address": "123 main street22",
   "dateOfBirth": "1995-09-09",
