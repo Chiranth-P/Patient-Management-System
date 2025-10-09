@@ -8,6 +8,8 @@ The project demonstrates enterprise-level design principles such as API Gateway 
 This system enables secure management of patient data, authentication, billing, and analytics within a scalable distributed architecture.
 It uses Spring Cloud Gateway for routing and authentication, Kafka for event-driven communication, and AWS CDK to automate the deployment and destruction of resources — ensuring consistent, clean, and reproducible environments.
 -----------------------------------------------------------------------------------------------------
+
+
 🧩 Architecture Overview
                        ┌────────────────────────────────────┐
                        │          API Gateway               │
@@ -29,6 +31,8 @@ It uses Spring Cloud Gateway for routing and authentication, Kafka for event-dri
                        │  • Consumes Kafka events           │
                        │  • Generates reports & insights    │
                        └────────────────────────────────────┘
+
+                       
 -----------------------------------------------------------------------------------------------------
 
 🧰 Tech Stack:
